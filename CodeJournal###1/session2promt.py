@@ -13,11 +13,17 @@ def difference_between_integers():
     diff = int1 - int2
     print("Difference between integers:", diff, "\n Type:", type(diff))
 
-
+#program that prints the product of float point and integer type defined
+def product_of_float_and_integer():
+    float_num = float(input("Enter a floating point number: "))
+    int_num = int(input("Enter an integer: "))
+    product = float_num * int_num
+    print("Product of floating point and integer:", product, "\n Type:", type(product))
 
 def main():
     sum_floating_point_numbers()
     difference_between_integers()
+    product_of_float_and_integer()
 
 if __name__ == "__main__":
     main()

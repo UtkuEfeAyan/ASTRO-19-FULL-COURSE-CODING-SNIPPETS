@@ -7,29 +7,26 @@ On macOS
 source bin/activate
 ```
 ### Install Packages
-With the virtual environment activated, install packages using pip3:
+after virtual environment activated, install packages using pip3
 ```bash
 pip3 install numpy ipykernel pandas scipy astropy plotly
 ```
-For a specific version:
+for specific version
 ```bash
 pip3 install numpy==2.4.4
 ```
 ### Deactivate the Virtual Environment
 
-When done, deactivate it:
+when done deactivate it
 ```bash
 deactivate
 ```
 ### Running Python Scripts
-Always make sure the virtual environment is activated before running scripts or installing packages:
+always make sure that the virtual environment is activated before running scripts or installing packages or oyu will confuse yourself
 ```bash
 source bin/activate
 python session6prompt.py
 ```
-
-## Available Packages
-
 ## Available Packages
 
 This environment includes:

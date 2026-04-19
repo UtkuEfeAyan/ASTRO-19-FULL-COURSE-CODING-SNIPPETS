@@ -30,10 +30,18 @@ python session6prompt.py
 
 ## Available Packages
 
+## Available Packages
+
 This environment includes:
 - `numpy` — numerical computing
-- `pandas` — data analysis
 - `scipy` — scientific computing
+- `pandas` — data analysis
 - `astropy` — astronomy library
 - `plotly` — interactive visualizations
 - `ipykernel` — Jupyter kernel support
+- `jupyter_client` — Jupyter protocol client
+- `jupyter_core` — Jupyter core utilities
+- `IPython` — interactive Python shell
+- `debugpy` — Python debugger
+
+**Python Version:** 3.14.3 (macOS ARM64)

@@ -1,0 +1,12 @@
+# Python virtual environment
+bin/
+lib/
+include/
+pyvenv.cfg
+*.pyc
+__pycache__/
+.Python
+*.egg-info/
+dist/
+build/
+.DS_Store

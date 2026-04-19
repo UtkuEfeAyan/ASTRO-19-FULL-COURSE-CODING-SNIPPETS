@@ -28,7 +28,6 @@ source bin/activate
 python session6prompt.py
 ```
 ## Available Packages
-
 This environment includes:
 - `numpy` — numerical computing
 - `scipy` — scientific computing

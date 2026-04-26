@@ -44,4 +44,4 @@ Python Version: 3.14.3 (macOS ARM64)
 WRITE AFTER ACTIVATING SOURCE BIN 
 - jupyter lab
 jupyter notebook command don't work so us the above command jupyter lab 
-also if you are testing something in vs code us th default kernel that inside the vscode one (github) are not the web based one because teh web based one requires you to re download the packages
+also if you are testing something make sure you have the default kernel that is  inside the vscode like the github repo one or the local environment kernel not the web based one because the web based one requires you to re download the packages
